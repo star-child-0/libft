@@ -6,7 +6,7 @@
 </h3>
 
 <p>
-	<a href="https://github.com/star-child-0/libft/edit/main/en.subject.pdf">Subject (Version: 15)</a>
+	<a href="https://github.com/star-child-0/libft/blob/main/en.subject.pdf">Subject (Version: 15)</a>
 </p>
 
 <p align="center">
